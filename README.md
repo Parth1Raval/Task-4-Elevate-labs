@@ -3,6 +3,7 @@
 🚀 AWS Lambda First Function Project
 
 Welcome, learners! 👋
+
 This repository is designed for anyone exploring cloud and serverless computing for the first time. Here, you’ll find everything you need to deploy your first AWS Lambda function, complete with easy-to-follow code and real screenshots.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
